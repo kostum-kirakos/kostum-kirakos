@@ -47,11 +47,8 @@
 </div>
 
 ###
-
 ## <img src="https://emoji.discadia.com/emojis/f9e15174-d2c8-4914-8554-cce3a7355772.gif" width="30px"> My GitHub Stats & Activity
-
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Profile Stats
-
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=l11EG4&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Ayoub Dev github stats" /> 
@@ -59,12 +56,10 @@
 </div>
 
  ### <img src="https://emoji.discadia.com/emojis/a7525bbb-e42a-4621-9137-f05d39aebeb2.gif" width="30px"> Socials
-
    </a>
     <a href="https://www.linkedin.com/in/lkoustim-mohamed-2b4678221/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
      </a>
-<br clear="both">
 
 ### <img src="https://emoji.discadia.com/emojis/406a2823-eec3-4496-aa0f-5b6a0c74914a.GIF" width="30px"> Contributions 🐍
 <img src="https://raw.githubusercontent.com/kostum-kirakos/kostum-kirakos/output/github-contribution-grid-snake.svg" alt="Snake animation" />
