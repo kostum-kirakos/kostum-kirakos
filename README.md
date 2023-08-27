@@ -2,8 +2,10 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=cb00ff&size=35&center=true&vCenter=true&width=1000&lines=Hi%F0%9F%91%8B%2C+I'm+Lkoustim+Mohamed!;I'm+a+Software+Engineering+Student;Welcome+to+my+GitHub+profile!❤️" />
   </a>
-
 ###
+<div align="center">
+  <img height="250" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif"  />
+</div>
 
 ## <img src="https://emoji.discadia.com/emojis/14b44ce8-7826-434f-8d62-cafc0c0171ce.GIF" width="30px"> About Me:
 <li>My name is Lkoustim Mohamed, and I am a designer and Software Engineer based in Marrakech, Morocco. I have always been fascinated by the intersection of design and technology, and I have dedicated my career to creating beautiful and functional digital experiences for users around the world.</li>
