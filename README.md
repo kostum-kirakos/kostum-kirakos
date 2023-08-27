@@ -50,7 +50,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left"><img src="https://emoji.discadia.com/emojis/d19e626e-ea56-41ab-8226-7a5033d9648f.gif" width="30px"> Skills:
 
 ###
 
@@ -64,6 +64,7 @@
 <br clear="both">
 <h2>🐍 My Contributions 🐍</h2>
 <img src="https://raw.githubusercontent.com/kostum-kirakos/kostum-kirakos/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://emoji.discadia.com/emojis/a7525bbb-e42a-4621-9137-f05d39aebeb2.gif" width="30px"> Socials:
 
 
 
