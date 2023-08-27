@@ -1,6 +1,6 @@
    <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=cb00ff&size=35&center=true&vCenter=true&width=1000&lines=Hi%F0%9F%91%8B%2C+I'm+Lkoustim+Mohamed!;I'm+a+Software+Engineering+Student;Welcome+to+my+GitHub+profile!❤️" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=cb00ff&size=35&center=true&vCenter=true&width=1000&lines=Hi%F0%9F%91%8B%2C+I'm+Lkoustim+Mohamed!;I'm+a+Software+Engineering+Student;Welcome+to+my+GitHub+profile!" />
   </a>
 <div align="center">
   <img height="350" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif"  />
@@ -56,6 +56,8 @@
     <a href="https://www.linkedin.com/in/lkoustim-mohamed-2b4678221/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
      </a>
+    <a href="https://instagram.com/https://www.instagram.com/kosstum/" target="_blank">
+         <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 
 ### <img src="https://emoji.discadia.com/emojis/406a2823-eec3-4496-aa0f-5b6a0c74914a.GIF" width="30px"> Contributions 🐍
 <img src="https://raw.githubusercontent.com/kostum-kirakos/kostum-kirakos/output/github-contribution-grid-snake.svg" alt="Snake animation" />
