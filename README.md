@@ -62,10 +62,10 @@
 ###
 
 <br clear="both">
+<h2>🐍 My Contributions 🐍</h2>
+<img src="https://raw.githubusercontent.com/kostum-kirakos/kostum-kirakos/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-<img src="https://raw.githubusercontent.com/kostum-kirakos/kostum-kirakos/output/snake.svg" alt="Snake animation" />
 
-###
 
 <div align="center">
   <img height="200" src="https://media.tenor.com/M1ZXWBbC-_cAAAAd/city-tokyo.gif"  />
