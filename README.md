@@ -13,10 +13,6 @@
  </p>
 
  ###
-  
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l11EG4" alt="l11EG4" /></a> </p>
-
- ###
 
 ## <img src="https://emoji.discadia.com/emojis/d19e626e-ea56-41ab-8226-7a5033d9648f.gif" width="30px"> Skills:
 
@@ -61,11 +57,6 @@
 </div>
 
 ###
-
-#### <img src="https://emoji.discadia.com/emojis/2444cf04-18e6-40a0-b3c3-be8b6cc39948.gif" width="30px"> Profile Views
-  
-![Visitor Count](https://profile-counter.glitch.me/{l11EG4}/count.svg) 
-
 ## <img src="https://emoji.discadia.com/emojis/a7525bbb-e42a-4621-9137-f05d39aebeb2.gif" width="30px"> Socials:
 
    </a>
@@ -73,3 +64,6 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
      </a>
 ###
+## <img src="https://emoji.discadia.com/emojis/406a2823-eec3-4496-aa0f-5b6a0c74914a.GIF" width="30px"> My Contributions 🐍:
+<br clear="both">
+<img src="https://raw.githubusercontent.com/kostum-kirakos/kostum-kirakos/output/github-contribution-grid-snake.svg" alt="Snake animation" />
