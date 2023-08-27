@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=cb00ff&size=35&center=true&vCenter=true&width=1000&lines=Hi%F0%9F%91%8B%2C+I'm+Lkoustim+Mohamed!;I'm+a+Software+Engineering+Student;Welcome+to+my+GitHub+profile!" />
   </a>
 <div align="center">
-  <img height="350" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif"  />
+  <img height="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif"  />
 </div>
 
 ## <img src="https://emoji.discadia.com/emojis/14b44ce8-7826-434f-8d62-cafc0c0171ce.GIF" width="30px"> About Me:
