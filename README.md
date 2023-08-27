@@ -56,14 +56,14 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l11EG4&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
 </div>
 
-###
-## <img src="https://emoji.discadia.com/emojis/a7525bbb-e42a-4621-9137-f05d39aebeb2.gif" width="30px"> Socials:
+ <img src="https://emoji.discadia.com/emojis/a7525bbb-e42a-4621-9137-f05d39aebeb2.gif" width="30px"> Socials:
 
    </a>
     <a href="https://www.linkedin.com/in/lkoustim-mohamed-2b4678221/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
      </a>
-###
-## <img src="https://emoji.discadia.com/emojis/406a2823-eec3-4496-aa0f-5b6a0c74914a.GIF" width="30px"> My Contributions 🐍:
+<br clear="both">
+
+<img src="https://emoji.discadia.com/emojis/406a2823-eec3-4496-aa0f-5b6a0c74914a.GIF" width="30px"> My Contributions 🐍:
 <br clear="both">
 <img src="https://raw.githubusercontent.com/kostum-kirakos/kostum-kirakos/output/github-contribution-grid-snake.svg" alt="Snake animation" />
