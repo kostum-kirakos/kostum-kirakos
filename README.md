@@ -6,6 +6,8 @@
   </a>
 </div>
 
+![Working]([https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lrbimr5bcxmevdp8h704.gif](https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif))
+
 ###
 
 ## <img src="https://emoji.discadia.com/emojis/14b44ce8-7826-434f-8d62-cafc0c0171ce.GIF" width="30px"> About Me:
@@ -65,5 +67,4 @@
 <br clear="both">
 
 ### <img src="https://emoji.discadia.com/emojis/406a2823-eec3-4496-aa0f-5b6a0c74914a.GIF" width="30px"> Contributions 🐍
-<br clear="both">
 <img src="https://raw.githubusercontent.com/kostum-kirakos/kostum-kirakos/output/github-contribution-grid-snake.svg" alt="Snake animation" />
