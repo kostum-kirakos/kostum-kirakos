@@ -1,6 +1,4 @@
-###
-<div align="center">
- <p align="center">
+   <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=cb00ff&size=35&center=true&vCenter=true&width=1000&lines=Hi%F0%9F%91%8B%2C+I'm+Lkoustim+Mohamed!;I'm+a+Software+Engineering+Student;Welcome+to+my+GitHub+profile!❤️" />
   </a>
