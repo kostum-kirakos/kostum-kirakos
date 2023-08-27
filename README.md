@@ -51,13 +51,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kostum-kirakos&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=2" height="119" alt="languages graph"  />
 </div>
 
- ### <img src="https://emoji.discadia.com/emojis/a7525bbb-e42a-4621-9137-f05d39aebeb2.gif" width="30px"> Socials
-   </a>
-    <a href="https://www.linkedin.com/in/lkoustim-mohamed-2b4678221/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
-     </a>
-    <a href="https://instagram.com/https://www.instagram.com/kosstum/" target="_blank">
-         <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-
 ### <img src="https://emoji.discadia.com/emojis/406a2823-eec3-4496-aa0f-5b6a0c74914a.GIF" width="30px"> Contributions 🐍
 <img src="https://raw.githubusercontent.com/kostum-kirakos/kostum-kirakos/output/github-contribution-grid-snake.svg" alt="Snake animation" />
