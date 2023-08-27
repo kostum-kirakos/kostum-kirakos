@@ -50,9 +50,9 @@
 ## <img src="https://emoji.discadia.com/emojis/f9e15174-d2c8-4914-8554-cce3a7355772.gif" width="30px"> My GitHub Stats & Activity
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Profile Stats
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=l11EG4&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Ayoub Dev github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l11EG4&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=kostum-kirakos&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="119" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kostum-kirakos&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=2" height="119" alt="languages graph"  />
 </div>
 
  ### <img src="https://emoji.discadia.com/emojis/a7525bbb-e42a-4621-9137-f05d39aebeb2.gif" width="30px"> Socials
