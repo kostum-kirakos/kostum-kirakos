@@ -1,3 +1,4 @@
+###
 <div align="center">
  <p align="center">
   <a href="https://git.io/typing-svg">
@@ -7,21 +8,17 @@
 
 ###
 
-<h1 align="center">Hi there 👋</h1>
+## <img src="https://emoji.discadia.com/emojis/14b44ce8-7826-434f-8d62-cafc0c0171ce.GIF" width="30px"> About Me:
+<li>My name is Lkoustim Mohamed, and I am a designer and Software Engineer based in Marrakech, Morocco. I have always been fascinated by the intersection of design and technology, and I have dedicated my career to creating beautiful and functional digital experiences for users around the world.</li>
+ </p>
 
-###
+ ###
+  
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l11EG4" alt="l11EG4" /></a> </p>
 
-<h3 align="left"> <img src="https://emoji.discadia.com/emojis/14b44ce8-7826-434f-8d62-cafc0c0171ce.GIF" width="30px"> About Me:
+ ###
 
-###
-
-<p align="left">My name is Lkoustim Mohamed, and I am a designer and Software Engineer based in Marrakech, Morocco. I have always been fascinated by the intersection of design and technology, and I have dedicated my career to creating beautiful and functional digital experiences for users around the world.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+## <img src="https://emoji.discadia.com/emojis/d19e626e-ea56-41ab-8226-7a5033d9648f.gif" width="30px"> Skills:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -53,26 +50,26 @@
 
 ###
 
-<h3 align="left"><img src="https://emoji.discadia.com/emojis/d19e626e-ea56-41ab-8226-7a5033d9648f.gif" width="30px"> Skills:
+## <img src="https://emoji.discadia.com/emojis/f9e15174-d2c8-4914-8554-cce3a7355772.gif" width="30px"> My GitHub Stats & Activity
 
-###
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Profile Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kostum-kirakos&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="119" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kostum-kirakos&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=2" height="119" alt="languages graph"  />
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=l11EG4&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Ayoub Dev github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l11EG4&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
 </div>
 
 ###
 
-<br clear="both">
-<h2>🐍 My Contributions 🐍</h2>
-<img src="https://raw.githubusercontent.com/kostum-kirakos/kostum-kirakos/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-<img src="https://emoji.discadia.com/emojis/a7525bbb-e42a-4621-9137-f05d39aebeb2.gif" width="30px"> Socials:
+#### <img src="https://emoji.discadia.com/emojis/2444cf04-18e6-40a0-b3c3-be8b6cc39948.gif" width="30px"> Profile Views
+  
+![Visitor Count](https://profile-counter.glitch.me/{l11EG4}/count.svg) 
 
+## <img src="https://emoji.discadia.com/emojis/a7525bbb-e42a-4621-9137-f05d39aebeb2.gif" width="30px"> Socials:
 
-
-<div align="center">
-  <img height="200" src="https://media.tenor.com/M1ZXWBbC-_cAAAAd/city-tokyo.gif"  />
-</div>
-
+   </a>
+    <a href="https://www.linkedin.com/in/lkoustim-mohamed-2b4678221/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
+     </a>
 ###
