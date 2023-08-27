@@ -5,11 +5,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=cb00ff&size=35&center=true&vCenter=true&width=1000&lines=Hi%F0%9F%91%8B%2C+I'm+Lkoustim+Mohamed!;I'm+a+Software+Engineering+Student;Welcome+to+my+GitHub+profile!❤️" />
   </a>
 </div>
-###
-<div align="center">
-  <img height="150" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif![image](https://github.com/kostum-kirakos/kostum-kirakos/assets/132625229/923129f9-8fc4-437e-a7c2-472bf6b0d2f7)
-"  />
-</div>
 
 ###
 
