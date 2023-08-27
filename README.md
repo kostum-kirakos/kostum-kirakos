@@ -1,5 +1,8 @@
 <div align="center">
-  <img height="150" src="https://media.tenor.com/i0nzuUl-6wQAAAAC/background.gif"  />
+ <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=Hi%F0%9F%91%8B%2C+I'm+Zakaria+Berahmi!;I'm+a+Software+Engineering+Student;Welcome+to+my+GitHub+profile!❤️" />
+  </a>
 </div>
 
 ###
