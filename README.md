@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left"> ## <img src="https://emoji.discadia.com/emojis/14b44ce8-7826-434f-8d62-cafc0c0171ce.GIF" width="30px"> About Me:
+<h3 align="left"> <img src="https://emoji.discadia.com/emojis/14b44ce8-7826-434f-8d62-cafc0c0171ce.GIF" width="30px"> About Me:
 
 ###
 
