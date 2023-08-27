@@ -6,7 +6,7 @@
   </a>
 </div>
 
-![Working]([https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lrbimr5bcxmevdp8h704.gif](https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif))
+![Working](https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif)
 
 ###
 
